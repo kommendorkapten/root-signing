@@ -1,24 +1,23 @@
 {
  "signatures": [
   {
-   "keyid": "fa6bb9bb553e568b85a0dc66bd36eeccb1625304ff30428bca79abedaef1632a",
+   "keyid": "5e3a4021b11a425fd0a444f1670457ce5b15bbe036144f2417426f7f4b9721da",
    "sig": ""
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2025-02-19T07:59:33Z",
+  "expires": "2025-02-24T07:17:04Z",
   "spec_version": "1.0",
   "targets": {
    "registry.npmjs.org/keys.json": {
     "hashes": {
-     "sha256": "7a8ec9678ad824cdccaa7a6dc0961caf8f8df61bc7274189122c123446248426",
-     "sha512": "881a853ee92d8cf513b07c164fea36b22a7305c256125bdfffdc5c65a4205c4c3fc2b5bcc98964349167ea68d40b8cd02551fcaa870a30d4601ba1caf6f63699"
+     "sha256": "7a8ec9678ad824cdccaa7a6dc0961caf8f8df61bc7274189122c123446248426"
     },
     "length": 1017
    }
   },
-  "version": 4,
+  "version": 5,
   "x-tuf-on-ci-expiry-period": 182,
   "x-tuf-on-ci-signing-period": 31
  }
